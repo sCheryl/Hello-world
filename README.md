@@ -1,6 +1,6 @@
 # Hello-world
 
-你好
+你好，
 我的专业技能：
 1）熟练掌握Web前端技术HTML、CSS以及HTML5新增标签
 2）熟悉使用jQuery、Js、canvas
